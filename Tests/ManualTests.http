@@ -1,0 +1,2 @@
+POST https://localhost:5001/TranslateDocument?toLang=es&localPathToFile=c%3A%5C%5Ctemp%5C%5CSanFranciscoBrochure.pdf
+
